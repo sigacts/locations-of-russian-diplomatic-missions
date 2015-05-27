@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 sp1 (http://www.altova.com) by Alex (Gazmyas) -->
+<RKZUList>
+	<RKZU country="абхазия" city="сухум" longitude="40.973741" latitude="43.03325" type="п"/>
+	<RKZU country="австралия" city="канберра" longitude="149.113294" latitude="-35.326909" type="п"/>
+	<RKZU country="австралия" city="сидней" longitude="151.025287" latitude="-33.956683" type="гк"/>
+	<RKZU country="австрия" city="вена" longitude="16.342457" latitude="48.191635" type="п"/>
+	<RKZU country="австрия" city="зальцбург" longitude="13.034797" latitude="47.801478" type="гк"/>
+	<RKZU country="азербайджан" city="баку" longitude="49.977852" latitude="40.420104" type="п"/>
+	<RKZU country="албания" city="тирана" longitude="19.818542" latitude="41.336965" type="п"/>
+	<RKZU country="алжир" city="алжир" longitude="3.013408" latitude="36.716468" type="п"/>
+	<RKZU country="алжир" city="аннаба" longitude="7.751697" latitude="36.863463" type="гк"/>
+	<RKZU country="ангола" city="луанда" longitude="13.291186" latitude="-8.895061" type="п"/>
+	<RKZU country="аргентина" city="Буэнос-Айрес" longitude="-58.461442" latitude="-34.601072" type="п"/>
+	<RKZU country="армения" city="ереван" longitude="44.506007" latitude="40.15816" type="п"/>
+	<RKZU country="армения" city="гюмри" longitude="43.865607" latitude="40.798258" type="гк"/>
+	<RKZU country="афганистан" city="кабул" longitude="69.179655" latitude="34.44606" type="п"/>
+	<RKZU country="афганистан" city="Мазари-Шариф" longitude="67.073313" latitude="36.680516" type="гк"/>
+	<RKZU country="бангладеш" city="дакка" longitude="90.467751" latitude="23.777356" type="п"/>
+	<RKZU country="бангладеш" city="читтагонг" longitude="91.841168" latitude="22.339458" type="гк"/>
+	<RKZU country="бахрейн" city="манама" longitude="50.52356" latitude="26.15865" type="п"/>
+	<RKZU country="белоруссия" city="минск" longitude=" 27.561741" latitude="53.903498" type="п"/>
+	<RKZU country="белоруссия" city="брест" longitude="23.704591" latitude="52.117938" type="гк"/>
+	<RKZU country="Бельгия" city="брюссель" longitude="4.373259" latitude="50.842215" type="п"/>
+	<RKZU country="бельгия" city="антверпен" longitude="4.424499" latitude="51.225498" type="гк"/>
+	<RKZU country="бенин" city="котону" longitude="2.426583" latitude="6.326167" type="п"/>
+	<RKZU country="болгария" city="софия" longitude="23.324029" latitude="42.692168" type="п"/>
+	<RKZU country="болгария" city="варна   " longitude="27.934246" latitude="43.222666" type="гк"/>
+	<RKZU country="болгария" city="русе" longitude="25.98715" latitude="43.864526" type="гк"/>
+	<RKZU country="боливия" city="Ла-Пас" longitude="-68.147311" latitude="-16.464534" type="п"/>
+	<RKZU country="Босния и Герцеговина" city="сараево" longitude="18.395673" latitude="43.858222" type="п"/>
+	<RKZU country="ботсвана" city="габороне" longitude="26.066811" latitude="-24.641597" type="п"/>
+	<RKZU country="бразилия" city="бразилиа" longitude="-47.934526" latitude="-15.878998" type="п"/>
+	<RKZU country="бразилия" city="рио-де-Жанейро" longitude="-43.389751" latitude="-22.810891" type="гк"/>
+	<RKZU country="бразилия" city="Сан-Пауло" longitude="-46.507152" latitude="-23.983655" type="гк"/>
+	<RKZU country="бруней" city="Бандар-сери-Бегаван" longitude="114.860236" latitude="4.830506" type="п"/>
+	<RKZU country="бурунди" city="бужумбура" longitude="29.351922" latitude="-3.351373" type="п"/>
+	<RKZU country="великобритания" city="лондон" longitude="-0.078989" latitude="51.490054" type="п"/>
+	<RKZU country="великобритания" city="эдинбург" longitude="-3.199583" latitude="55.9365" type="гк"/>
+	<RKZU country="венгрия" city="будапешт" longitude="19.082139" latitude="47.493633" type="п"/>
+	<RKZU country="венгрия" city="дебрецен " longitude="21.622494" latitude="47.531136" type="гк"/>
+	<RKZU country="венесуэла" city="каракас" longitude="-66.919144" latitude="10.464685" type="п"/>
+	<RKZU country="вьетнам" city="ханой" longitude="105.823472" latitude="20.968171" type="п"/>
+	<RKZU country="вьетнам" city="дананг" longitude="108.228172" latitude="15.951851" type="гк"/>
+	<RKZU country="вьетнам" city="хошимин" longitude="106.632207" latitude="10.704372" type="гк"/>
+	<RKZU country="габон" city="либревиль" longitude="9.536758" latitude="0.343342" type="п"/>
+	<RKZU country="гайана" city="джорджтаун" longitude="-58.124493" latitude="6.74322" type="п"/>
+	<RKZU country="гана" city="аккра" longitude="-0.247531" latitude="5.524842" type="п"/>
+	<RKZU country="гватемала" city="гватемала" longitude="-90.207635" latitude="15.754058" type="п"/>
+	<RKZU country="Гвинея-Бисау" city="бисау" longitude="-15.618445" latitude="11.855219" type="п"/>
+	<RKZU country="гвинея" city="конакри" longitude="-13.684944" latitude="9.49597" type="п"/>
+	<RKZU country="ФРГ" city="берлин" longitude="13.419932" latitude="52.491937" type="п"/>
+	<RKZU country="ФРГ" city="бонн" longitude="7.115187" latitude="50.706907" type="гк"/>
+	<RKZU country="ФРГ" city="гамбург" longitude="9.972027" latitude="53.614669" type="гк"/>
+	<RKZU country="ФРГ" city="лейпциг" longitude="12.362831" latitude="51.327744" type="гк"/>
+	<RKZU country="ФРГ" city="мюнхен" longitude="11.548319" latitude="48.146025" type="гк"/>
+	<RKZU country="ФРГ" city="Франкфурт-на-Майне" longitude="8.625659" latitude="50.122294" type="гк"/>
+	<RKZU country="греция" city="афины" longitude="23.712981" latitude="37.967228" type="п"/>
+	<RKZU country="греция" city="салоники" longitude="22.948811" latitude="40.623141" type="гк"/>
+	<RKZU country="грузия" city="тбилиси" longitude="44.839012" latitude="41.614439" type="секция интересов России в Тбилиси (при Посольстве Швейцарии)"/>
+	<RKZU country="дания" city="копенгаген" longitude="12.443329" latitude="55.738044" type="п"/>
+	<RKZU country="демократическая Республика Конго" city="киншаса" longitude="15.304894" latitude="-4.312469" type="п"/>
+	<RKZU country="джибути" city="джибути" longitude="43.158219" latitude="11.495553" type="п"/>
+	<RKZU country="египет" city="каир " longitude="31.30185" latitude="30.074416" type="п"/>
+	<RKZU country="египет" city="александрия" longitude="29.934516" latitude="31.219214" type="гк"/>
+	<RKZU country="замбия" city="лусака" longitude="28.270153" latitude="-15.411862" type="п"/>
+	<RKZU country="зимбабве" city="хараре" longitude="31.015252" latitude="-17.7771" type="п"/>
+	<RKZU country="израиль" city="Тель-Авив" longitude="34.869635" latitude="32.111343" type="п"/>
+	<RKZU country="израиль" city="хайфа" longitude="35.054868" latitude="32.720427" type="гк"/>
+	<RKZU country="индия" city="Нью-Дели" longitude="77.196553" latitude="28.593226" type="п"/>
+	<RKZU country="индия" city="калькутта" longitude="88.313349" latitude="22.558518" type="гк"/>
+	<RKZU country="индия" city="мумбаи" longitude="72.832843" latitude="18.941486" type="гк"/>
+	<RKZU country="индия" city="ченнаи (Мадрас)" longitude="80.2105" latitude="13.008912 " type="гк"/>
+	<RKZU country="индонезия" city="джакарта" longitude="106.806507" latitude="-6.273962" type="п"/>
+	<RKZU country="иордания" city="амман" longitude="36.00798" latitude="31.880938" type="п"/>
+	<RKZU country="ирак" city="багдад" longitude="44.394804" latitude="33.353737" type="п"/>
+	<RKZU country="ирак" city="эрбиль" longitude="44.057496" latitude="36.153425" type="гк"/>
+	<RKZU country="иран" city="тегеран" longitude="51.405688" latitude="35.676386" type="п"/>
+	<RKZU country="иран" city="исфахан" longitude="51.642906" latitude="32.642421" type="гк"/>
+	<RKZU country="иран" city="Решт" longitude="49.587031" latitude="37.266836" type="гк"/>	
+	<RKZU country="ирландия" city="дублин" longitude="-6.246768" latitude="53.328568" type="п"/>
+	<RKZU country="исландия" city="рейкьявик" longitude="-21.917393" latitude="64.138641" type="п"/>
+	<RKZU country="испания" city="мадрид" longitude="-3.682904" latitude="40.422245" type="п"/>
+	<RKZU country="испания" city="барселона" longitude="2.141305" latitude="41.399501" type="гк"/>
+	<RKZU country="италия" city="рим" longitude="12.500785" latitude="41.889259" type="п"/>
+	<RKZU country="италия" city="генуя" longitude="8.945612" latitude="44.416571" type="гк"/>
+	<RKZU country="италия" city="милан" longitude="9.182094" latitude="45.489247" type="гк"/>
+	<RKZU country="италия" city="палермо" longitude="13.359655" latitude="38.123807" type="гк"/>
+	<RKZU country="йемен" city="сана" longitude="44.192063" latitude="15.359378" type="п"/>
+	<RKZU country="йемен" city="аден" longitude="45.009854" latitude="12.716513" type="гк"/>
+	<RKZU country="Кабо-Верде" city="прая" longitude=" -23.535474" latitude="14.947433" type="п"/>
+	<RKZU country="казахстан" city="астана" longitude="71.480124" latitude="51.151817" type="п"/>
+	<RKZU country="казахстан" city="Алма-Ата" longitude="76.912336" latitude="43.28081" type="гк  "/>
+	<RKZU country="казахстан" city="уральск" longitude="51.404817" latitude="51.224319" type="к"/>
+	<RKZU country="камбоджа" city="пномпень" longitude="104.912059" latitude="11.521973" type="п"/>
+	<RKZU country="камерун" city="яунде" longitude="11.548211" latitude="3.818374" type="п"/>
+	<RKZU country="канада" city="оттава" longitude="-75.70332" latitude="45.328624" type="п"/>
+	<RKZU country="канада" city="монреаль" longitude="-73.664081" latitude="45.517199" type="гк"/>
+	<RKZU country="канада" city="торонто" longitude="-79.427061" latitude="43.691014" type="гк"/>
+	<RKZU country="катар" city="доха" longitude="51.524194" latitude="25.19494" type="п"/>
+	<RKZU country="кения" city="найроби" longitude="36.850833" latitude="-1.360666" type="п"/>
+	<RKZU country="кипр" city="никосия" longitude="33.353243" latitude="35.173738" type="п"/>
+	<RKZU country="киргизия" city="бишкек" longitude="74.567625" latitude="42.807503" type="п "/>
+	<RKZU country="киргизия" city="ош" longitude="72.763556" latitude="40.503497" type="гк"/>
+	<RKZU country="КНР" city="пекин" longitude="116.323017" latitude="39.876918" type="п"/>
+	<RKZU country="КНР" city="гуанчжоу" longitude="113.254947" latitude="23.076998" type="гк"/>
+	<RKZU country="КНР" city="сянган(Гонконг)" longitude="114.152463" latitude="22.213546" type="гк"/>
+	<RKZU country="КНР" city="шанхай" longitude="121.442417" latitude="31.168116" type="гк"/>
+	<RKZU country="КНР" city="шэньян" longitude="123.460913" latitude="41.841019" type="гк"/>
+	<RKZU country="КНДР" city="пхеньян " longitude="125.741835" latitude="38.980109" type="п"/>
+	<RKZU country="КНДР" city="чхонджин" longitude="129.783373" latitude="41.821683" type="гк"/>
+	<RKZU country="колумбия" city="богота" longitude="-74.111083" latitude="4.552148" type="п"/>
+	<RKZU country="конго" city="браззавиль" longitude="15.252926" latitude="-4.278723" type="п"/>
+	<RKZU country="Республика Корея" city="сеул" longitude="126.929291" latitude="37.491109" type="п"/>
+	<RKZU country="Республика Корея" city="пусан" longitude="129.011711" latitude="35.082313" type="гк"/>
+	<RKZU country="коста-Рика" city="Сан-Хосе" longitude="-84.071791" latitude="9.899558" type="п"/>
+	<RKZU country="кот-д'Ивуар" city="абиджан" longitude="-4.02465" latitude="5.299267" type="п"/>
+	<RKZU country="куба" city="гавана" longitude="-82.342193" latitude="23.063782" type="п"/>
+	<RKZU country="кувейт" city="Эль-Кувейт" longitude="47.95949" latitude="29.299777" type="п"/>
+	<RKZU country="лаос" city="вьентьян" longitude="102.647559" latitude="17.978558" type="п"/>
+	<RKZU country="латвия" city="рига" longitude="24.099455" latitude="56.958257" type="п"/>
+	<RKZU country="латвия" city="даугавпилс" longitude="26.53874" latitude="55.888402" type="гк"/>
+	<RKZU country="латвия" city="лиепая" longitude="21.01181" latitude="56.499355" type="гк"/>
+	<RKZU country="ливан" city="бейрут" longitude="35.535394" latitude="33.781988" type="п"/>
+	<RKZU country="ливия" city="триполи" longitude="13.193602" latitude="32.836497" type="п"/>
+	<RKZU country="литва" city="вильнюс" longitude="25.294124" latitude="54.697511" type="п"/>
+	<RKZU country="литва" city="клайпеда" longitude=" 21.137565" latitude="55.705376" type="гк"/>
+	<RKZU country="люксембург" city="люксембург" longitude="6.124399" latitude="49.616691" type="п"/>
+	<RKZU country="маврикий" city="Порт-Луи" longitude="57.500407" latitude="-20.208367" type="п"/>
+	<RKZU country="мавритания" city="нуакшот" longitude="-15.956451" latitude="18.022721" type="п"/>
+	<RKZU country="мадагаскар" city="антананариву" longitude="47.525163" latitude="-18.920363" type="п"/>
+	<RKZU country="македония" city="скопье" longitude="21.427649" latitude="42.010918" type="п"/>
+	<RKZU country="малайзия" city="Куала-Лумпур" longitude="101.675411" latitude="3.026736" type="п"/>
+	<RKZU country="мали" city="бамако" longitude="-8.032044" latitude="12.623315" type="п"/>
+	<RKZU country="мальта" city="валетта" longitude="14.496593" latitude="35.896128" type="п"/>
+	<RKZU country="марокко" city="рабат" longitude="-6.855287" latitude="33.908604" type="п"/>
+	<RKZU country="мексика" city="мехико" longitude="-99.157658" latitude="19.382862" type="п"/>
+	<RKZU country="мозамбик" city="мапуту" longitude="32.616867" latitude="-25.88715" type="п"/>
+	<RKZU country="молдавия" city="кишинев" longitude="28.838526" latitude="47.012925" type="п"/>
+	<RKZU country="монголия" city="улан-Батор" longitude="106.931526" latitude="47.975081" type="п"/>
+	<RKZU country="монголия" city="дархан" longitude="105.963564" latitude="49.458477" type="гк"/>
+	<RKZU country="монголия" city="эрдэнэт" longitude="103.954401" latitude="49.016287" type="гк"/>
+	<RKZU country="мьянма" city="янгон" longitude="96.176383" latitude="16.743791" type="п"/>
+	<RKZU country="намибия" city="виндхук" longitude="17.069913" latitude="-22.62866" type="п"/>
+	<RKZU country="непал" city="катманду" longitude="85.336691" latitude="27.697243" type="п"/>
+	<RKZU country="нигерия" city="лагос" longitude="3.325168" latitude="6.416703" type="п"/>
+	<RKZU country="нигерия" city="абуджа" longitude="7.354588" latitude="9.026958" type="Представительство Посольства России"/>
+	<RKZU country="нидерланды" city="гаага" longitude="4.297316" latitude="52.0714" type="п"/>
+	<RKZU country="никарагуа" city="манагуа" longitude="-86.2818" latitude="12.091195" type="п"/>
+	<RKZU country="новая Зеландия" city="веллингтон" longitude="174.732213" latitude="-41.369536" type="п"/>
+	<RKZU country="норвегия" city="осло" longitude="10.677708" latitude="59.908421" type="п"/>
+	<RKZU country="норвегия" city="киркенес" longitude="30.063415" latitude="69.723902" type="гк"/>
+	<RKZU country="норвегия" city="баренцбург" longitude="14.223358" latitude="78.083505" type="к"/>
+	<RKZU country="Объединённые Арабские Эмираты" city="Абу-Даби" longitude="54.378833" latitude="24.42041" type="п"/>
+	<RKZU country="Объединённые Арабские Эмираты" city="дубаи" longitude="55.332197" latitude="25.18765" type="гк"/>
+	<RKZU country="оман" city="маскат" longitude="58.574513" latitude="23.523274" type="п"/>
+	<RKZU country="пакистан" city="исламабад" longitude="73.035162" latitude="33.664693" type="п"/>
+	<RKZU country="пакистан" city="карачи" longitude="67.016485" latitude="24.832645" type="гк"/>
+	<RKZU country="палестина" city="рамалла" longitude="35.271146" latitude="31.960751" type="Представительство РФ при Палестинской администрации"/>
+	<RKZU country="панама" city="панама" longitude="-79.448357" latitude="9.038318" type="п"/>
+	<RKZU country="парагвай" city="асунсьон" longitude="-57.534893" latitude="-25.306701" type="п"/>
+	<RKZU country="перу" city="лима" longitude="-77.031398" latitude="-12.062443" type="п"/>
+	<RKZU country="польша" city="варшава" longitude="21.086783" latitude="52.197128" type="п"/>
+	<RKZU country="польша" city="гданьск" longitude="18.654622" latitude="54.363675" type="гк"/>
+	<RKZU country="польша" city="краков" longitude="19.964168" latitude="50.058634" type="гк"/>
+	<RKZU country="польша" city="познань" longitude="16.92523" latitude="52.412088" type="гк"/>
+	<RKZU country="португалия" city="лиссабон" longitude="-9.162636" latitude="38.739494" type="п"/>
+	<RKZU country="руанда" city="кигали" longitude="30.107207" latitude="-1.986243" type="п"/>
+	<RKZU country="румыния" city="бухарест" longitude="26.106354" latitude="44.447185" type="п"/>
+	<RKZU country="румыния" city="констанца" longitude="28.632839" latitude="44.180381" type="гк"/>
+	<RKZU country="саудовская Аравия" city="Эр-Рияд" longitude="46.705307" latitude="24.508347" type="п"/>
+	<RKZU country="саудовская Аравия" city="джидда" longitude="39.218981" latitude="21.45179" type="гк"/>
+	<RKZU country="Сейшелы" city="виктория" longitude="55.398259" latitude="-4.728582" type="п"/>
+	<RKZU country="сенегал" city="дакар" longitude="-17.487324" latitude="14.695961" type="п"/>
+	<RKZU country="сербия" city="белград" longitude="20.489727" latitude="44.787516" type="п"/>
+	<RKZU country="сингапур" city="сингапур" longitude="103.823032" latitude="1.24934" type="п"/>
+	<RKZU country="сирия" city="дамаск" longitude="36.318483" latitude="33.467927" type="п"/>
+	<RKZU country="сирия" city="алеппо" longitude="37.162082" latitude="36.206917" type="гк"/>
+	<RKZU country="словакия" city="братислава" longitude="17.124162" latitude="48.170187" type="п"/>
+	<RKZU country="словения" city="любляна" longitude="14.493679" latitude="46.057826" type="п"/>
+	<RKZU country="судан" city="хартум" longitude="32.570451" latitude="15.528305" type="п"/>
+	<RKZU country="США" city="вашингтон" longitude="-77.050586" latitude="38.898741" type="п"/>
+	<RKZU country="США" city="Нью-Йорк" longitude="-74.039783" latitude="40.802941" type="гк"/>
+	<RKZU country="США" city="Сан-Франциско" longitude="-122.355716" latitude="37.575531" type="гк"/>
+	<RKZU country="США" city="сиэтл" longitude="-122.323053" latitude="47.588197" type="гк"/>
+	<RKZU country="США" city="хьюстон" longitude="-95.284715" latitude="29.71664" type="гк"/>
+	<RKZU country="таджикистан" city="душанбе" longitude="68.795015" latitude="38.554951" type="п"/>
+	<RKZU country="таджикистан" city="ходжент" longitude="69.578435" latitude="40.239732" type="гк"/>
+	<RKZU country="Тайланд" city="бангкок" longitude="100.531443" latitude="13.74976" type="п"/>
+	<RKZU country="танзания" city="Дар-эс-Салам" longitude="39.290505" latitude="-6.821818" type="п"/>
+	<RKZU country="тунис" city="тунис" longitude="9.577406" latitude="33.867443" type="п"/>
+	<RKZU country="туркменистан" city="ашхабад" longitude="58.416563" latitude="37.909017" type="п"/>
+	<RKZU country="туркменистан" city="туркменбаши" longitude="53.035187" latitude="40.01123" type="кпп"/>
+	<RKZU country="турция" city="анкара" longitude="32.880828" latitude="39.922492" type="п"/>
+	<RKZU country="турция" city="анталья" longitude="30.71852" latitude="36.897713" type="гк"/>
+	<RKZU country="турция" city="стамбул" longitude="28.943368" latitude="41.045885" type="гк"/>
+	<RKZU country="турция" city="трабзон" longitude="39.723457" latitude="40.998881" type="гк"/>
+	<RKZU country="уганда" city="кампала" longitude="32.615977" latitude="0.293711" type="п"/>
+	<RKZU country="узбекистан" city="ташкент" longitude="69.260674" latitude="41.258054" type="п"/>
+	<RKZU country="украина" city="киев" longitude="30.522301" latitude="50.451118" type="п"/>
+	<RKZU country="украина" city="одесса" longitude="30.739846" latitude="46.469517" type="гк"/>	
+	<RKZU country="украина" city="харьков" longitude="36.228301" latitude="50.006174" type="гк"/>
+	<RKZU country="украина" city="львов" longitude="24.031201" latitude="49.842164" type="гк"/>
+	<RKZU country="уругвай" city="монтевидео" longitude="-56.24113" latitude="-34.890225" type="п"/>
+	<RKZU country="филиппины" city="манила" longitude="121.007497" latitude="14.569092" type="п"/>
+	<RKZU country="финляндия" city="хельсинки" longitude="24.921718" latitude="60.219514" type="п"/>
+	<RKZU country="финляндия" city="турку" longitude="22.276449" latitude="60.453734" type="гк"/>
+	<RKZU country="финляндия" city="Лаппеенранта" longitude="28.207423" latitude="61.050454" type="кко"/>
+	<RKZU country="финляндия" city="мариехамн" longitude="19.932429" latitude="60.10208" type="к"/>
+	<RKZU country="франция" city="париж" longitude="2.348825" latitude="48.859917" type="п"/>
+	<RKZU country="франция" city="марсель" longitude="5.389631" latitude="43.298705" type="гк"/>
+	<RKZU country="франция" city="страсбург" longitude="7.743523" latitude="48.572656" type="гк"/>
+	<RKZU country="хорватия" city="загреб" longitude="15.9728" latitude="45.817639" type="п"/>
+	<RKZU country="ЦАР" city="банги" longitude="18.552897" latitude="4.322027" type="п"/>
+	<RKZU country="чад" city="нджамена" longitude="15.094868" latitude="12.112004" type="п"/>
+	<RKZU country="черногория" city="подгорица" longitude="19.269662" latitude="42.436997" type="п"/>
+	<RKZU country="чехия" city="прага" longitude="14.439385" latitude="50.071737" type="п"/>
+	<RKZU country="чехия" city="брно" longitude="16.599124" latitude="49.210794" type="гк"/>
+	<RKZU country="чехия" city="Карловы Вары" longitude="12.880368" latitude="50.230525" type="гк"/>
+	<RKZU country="чили" city="сантьяго" longitude="-70.601733" latitude="-33.415887" type="п"/>
+	<RKZU country="швейцария" city="берн" longitude="7.453537" latitude="46.945025" type="п"/>
+	<RKZU country="швейцария" city="женева" longitude="6.153828" latitude="46.198745" type="гк"/>
+	<RKZU country="Швеция" city="стокгольм" longitude="17.956846" latitude="59.381982" type="п"/>
+	<RKZU country="Швеция" city="гётеборг" longitude="11.97298" latitude="57.710225" type="гк"/>
+	<RKZU country="шри-Ланка" city="коломбо" longitude="79.866903" latitude="6.842702" type="п"/>
+	<RKZU country="эквадор" city="кито" longitude="-78.588601" latitude="-0.193897" type="п"/>
+	<RKZU country="эритрея" city="асмэра" longitude="38.935428" latitude="15.284776" type="п"/>
+	<RKZU country="эстония" city="таллин" longitude="24.734779" latitude="59.405984" type="п"/>
+	<RKZU country="эстония" city="тарту" longitude="26.719553" latitude="58.370666" type="кко"/>
+	<RKZU country="эстония" city="нарва" longitude="28.182315" latitude="59.376403" type="гк"/>
+	<RKZU country="эфиопия" city="Аддис-Абеба" longitude="38.726911" latitude="8.993335" type="п"/>
+	<RKZU country="ЮАР" city="претория" longitude="28.231202" latitude="-25.716888" type="п"/>
+	<RKZU country="ЮАР" city="кейптаун" longitude="18.415939" latitude="-33.925297" type="гк"/>
+	<RKZU country="Южная Осетия" city="цхинвал" longitude="43.998072" latitude="42.233395" type="п"/>
+	<RKZU country="ямайка" city="кингстон" longitude="-76.75972" latitude="17.973649" type="п"/>
+	<RKZU country="япония" city="токио" longitude="139.718462" latitude="35.624013" type="п"/>
+	<RKZU country="япония" city="ниигата" longitude="139.013706" latitude="37.784123" type="гк"/>
+	<RKZU country="япония" city="осака" longitude="135.505138" latitude="34.607489" type="гк"/>
+	<RKZU country="япония" city="саппоро" longitude="141.382717" latitude="43.023601" type="гк"/>
+    <RKZU country="япония" city="Хакодате" longitude="140.832058" latitude="41.773802" type="Генконсульство в Саппоро (отделение в Хакодатэ)"/>
+</RKZUList>
