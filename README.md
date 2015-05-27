@@ -3,7 +3,7 @@ This project captures the latitude and longitude of worldwide Russian Diplomatic
 
 ##Workflow
 * Grab XML file
-```http://www.kdmid.ru/js/coors2.xml```
+`http://www.kdmid.ru/js/coors2.xml`
 * Parse file
 * Run each country and city name through Google Translate
 * Create a CSV and then run through ogr2ogr to create a GeoJSON file
