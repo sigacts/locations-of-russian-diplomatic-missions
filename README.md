@@ -3,9 +3,15 @@ This project captures the latitude and longitude of worldwide Russian Diplomatic
 
 ##Workflow
 * Grab XML file
-`http://www.kdmid.ru/js/coors2.xml`
+```
+wget http://www.kdmid.ru/js/coors2.xml
+```
 * Parse file
-* Run each country and city name through Google Translate
+```
+python parseXML.py
+```
+** Runs each country and city name through Google Translate
+** Creates an output file called `russianOutposts.csv`
 * Create a CSV and then use ogr2ogr to create a GeoJSON file
 ```
 ogr2ogr -f GeoJSON Locations-Of-Russian-Diplomatic-Missions-20150526.geojson Locations-Of-Russian-Diplomatic-Missions-20150526.vrt
