@@ -10,7 +10,7 @@ wget http://www.kdmid.ru/js/coors2.xml
 ```
 python parseXML.py
 ```
-* Create a CSV and then use ogr2ogr to create a GeoJSON file
+* Create a CSV and then use ogr2ogr to create a GeoJSON file (I altered the filenames a bit)
 ```
 ogr2ogr -f GeoJSON Locations-Of-Russian-Diplomatic-Missions-20150526.geojson Locations-Of-Russian-Diplomatic-Missions-20150526.vrt
 ```
