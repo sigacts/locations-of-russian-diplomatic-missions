@@ -6,7 +6,7 @@ This project captures the latitude and longitude of worldwide Russian Diplomatic
 ```
 wget http://www.kdmid.ru/js/coors2.xml
 ```
-* Parse file
+* Parse file (update with your own Google translate API key)
 ```
 python parseXML.py
 ```
