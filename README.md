@@ -2,7 +2,7 @@
 This project captures the latitude and longitude of worldwide Russian Diplomatic outposts.
 
 ##Workflow
-* Grab the XML file form the Consular Department of the Russian Foreign Ministry website
+* Grab the XML file from the Consular Department of the Russian Foreign Ministry website
 ```
 wget http://www.kdmid.ru/js/coors2.xml
 ```
